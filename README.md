@@ -20,3 +20,8 @@
   - 😄 Pronouns: ...
   - ⚡ Fun fact: ...
     -->
+
+<video controls muted preload="auto" src="https://www.rey.wiki/george/assets/work_faster.mp4"></video>
+
+Credit [@karlnilo](https://www.instagram.com/karlniilo/)
+
