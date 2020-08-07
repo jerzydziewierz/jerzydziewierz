@@ -1,10 +1,16 @@
-- ### Hi there 👋
+# Hi there 👋
 
-  🔭 I’m currently working on FDTD acoustic propagator for numpy/pyCUDA, possibly with PyTorch support later on (and full differentiation)
+You have found the github profile page of George Rey (previously known as Dr Jerzy "Jurek" Dziewierz).
 
-  💬 Ask me about ultrasound. I love everything ultrasound.
+I am a Senior Scientist and Principal investigator. I love all things ultrasound.
 
-  📫 How to reach me: See my [portfolio website here](https://www.rey.wiki)
+🔭 I’m currently working on FDTD acoustic propagator for numpy/pyCUDA, possibly with PyTorch support later on (and full differentiation)
+
+💬 Ask me about ultrasound. I love everything ultrasound.
+
+📫 How to reach me: See my [portfolio website here](https://www.rey.wiki)
+
+
 
   <!--
   **jerzydziewierz/jerzydziewierz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +27,4 @@
   - ⚡ Fun fact: ...
     -->
 
-<video controls muted preload="auto" src="https://www.rey.wiki/george/assets/work_faster.mp4"></video>
-
-Credit [@karlnilo](https://www.instagram.com/karlniilo/)
 
