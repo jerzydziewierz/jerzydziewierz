@@ -8,7 +8,7 @@ I am a Senior Scientist and Principal investigator. I love all things ultrasound
 
 💬 Ask me about ultrasound. I love everything ultrasound.
 
-📫 How to reach me: See my [portfolio website here](https://www.rey.wiki)
+📫 How to reach me: See my [portfolio website here](https://www.rey.wiki) or contact me [on LinkedIn](https://www.linkedin.com/in/dr-george-rey-dziewierz/)
 
 
 
