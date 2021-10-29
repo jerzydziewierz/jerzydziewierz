@@ -2,7 +2,7 @@
 
 You have found the github profile page of George Rey (previously known as Dr Jerzy "Jurek" Dziewierz).
 
-I am a Senior Scientist and Principal investigator. I love all things ultrasound.
+I am a Sensor Scientist and Principal investigator. I love all things ultrasound.
 
 🔭 I’m currently working on a multistep FDTD elastic wave solver, with a CUDA core (custom memory architecture) and a JAX interface. 
 
