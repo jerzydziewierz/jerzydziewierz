@@ -4,7 +4,7 @@ You have found the github profile page of George Rey (previously known as Dr Jer
 
 I am a Sensor Scientist and Principal investigator. I love all things ultrasound.
 
-🔭 I’m currently working on a multistep FDTD elastic wave solver, with a CUDA core (custom memory architecture) and a JAX interface. 
+🔭 I’m currently working on an FDTD elastic wave solver, with a CUDA core (custom memory architecture) and a JAX interface. 
 
 💬 Ask me about ultrasound. I love everything ultrasound.
 
